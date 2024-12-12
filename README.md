@@ -12,6 +12,7 @@ This project showcases the capability to modify an existing codebase, utilize cl
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Walkthrough-video](#Walkthrough-video)
 
 ## Installation
 
@@ -29,6 +30,6 @@ N/A
 
 MIT
 
-## Walkthrough video Link 
+## Walkthrough-video 
 
 https://drive.google.com/file/d/1sl5kar2kvgOsVwsMOhoghvU63kbGeVJW/view
