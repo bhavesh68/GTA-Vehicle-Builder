@@ -418,7 +418,6 @@ class Cli {
               if (this.vehicles[i] instanceof Motorbike) {
                 let motorbike = this.vehicles[i] as Motorbike;
                 motorbike.wheelie();
-                return;
               } else {
                 console.log("Only Motorbike can do a wheelie")
               }
